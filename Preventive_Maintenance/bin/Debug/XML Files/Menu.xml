@@ -1,0 +1,8 @@
+<Application>
+  <Menus>
+    <action type="add">      
+      <Menu Checked="0" Enabled="1" FatherUID="3584" Image="" Position="4" String="Preventive Maintanence"
+            Type="1" UniqueID="mnu_Z_OPMT">	</Menu>
+    </action>
+  </Menus>
+</Application>

@@ -1,0 +1,16 @@
+D:\Project\procons4it\Aurora\Aurora\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\Aurora\Aurora\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\Aurora\Aurora\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\Aurora\Aurora\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\Aurora\Aurora\obj\Debug\Aurora.vbproj.ResolveComReference.cache
+D:\Project\procons4it\Aurora\Aurora\obj\Debug\Aurora.Resources.resources
+D:\Project\procons4it\Aurora\Aurora\obj\Debug\Aurora.vbproj.GenerateResource.Cache
+D:\Project\procons4it\Aurora\Aurora\bin\Debug\Aurora.exe
+D:\Project\procons4it\Aurora\Aurora\bin\Debug\Aurora.pdb
+D:\Project\procons4it\Aurora\Aurora\bin\Debug\Aurora.xml
+D:\Project\procons4it\Aurora\Aurora\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\Aurora\Aurora\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\Aurora\Aurora\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\Aurora\Aurora\obj\Debug\Aurora.exe
+D:\Project\procons4it\Aurora\Aurora\obj\Debug\Aurora.xml
+D:\Project\procons4it\Aurora\Aurora\obj\Debug\Aurora.pdb

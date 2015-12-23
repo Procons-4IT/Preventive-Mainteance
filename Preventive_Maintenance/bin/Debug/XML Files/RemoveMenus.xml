@@ -1,0 +1,7 @@
+﻿<Application>
+  <Menus>
+    <action type="remove">
+      <Menu UniqueID="mnu_Z_OPMT"></Menu>      
+    </action>
+  </Menus>
+</Application>
